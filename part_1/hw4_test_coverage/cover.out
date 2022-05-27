@@ -1,0 +1,25 @@
+mode: set
+test_module/client.go:75.80,85.19 2 1
+test_module/client.go:88.2,88.20 1 1
+test_module/client.go:91.2,91.20 1 1
+test_module/client.go:98.2,111.16 10 1
+test_module/client.go:117.2,120.25 3 1
+test_module/client.go:137.2,140.16 3 1
+test_module/client.go:144.2,145.28 2 1
+test_module/client.go:153.2,153.21 1 1
+test_module/client.go:85.19,87.3 1 1
+test_module/client.go:88.20,90.3 1 1
+test_module/client.go:91.20,93.3 1 1
+test_module/client.go:111.16,112.54 1 1
+test_module/client.go:115.3,115.50 1 1
+test_module/client.go:112.54,114.4 1 1
+test_module/client.go:121.31,122.44 1 1
+test_module/client.go:123.38,124.53 1 1
+test_module/client.go:125.29,128.17 3 1
+test_module/client.go:131.3,131.44 1 1
+test_module/client.go:134.3,134.73 1 1
+test_module/client.go:128.17,130.4 1 1
+test_module/client.go:131.44,133.4 1 1
+test_module/client.go:140.16,142.3 1 1
+test_module/client.go:145.28,148.3 2 1
+test_module/client.go:148.8,151.3 1 1
